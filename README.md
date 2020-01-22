@@ -1,5 +1,5 @@
 # Introduction
-One of the most 'human' things to do, it seems, is an act of buying.
+-
 
 # Understanding the dataset
 This dataset, which seems very reasonable at first, has its riddles; the payment status(PAY_0~PAY_5)
